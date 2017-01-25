@@ -1,2 +1,2 @@
-# project_awesome
+# ProjectAwesome
 The most awesome framework ever made!
